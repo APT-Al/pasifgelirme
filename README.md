@@ -1,2 +1,3 @@
-# pasifgelirime
-adware website
+# pasifgelir.me
+
+This folder contains the above website's content
