@@ -1,0 +1,2 @@
+# pasifgelirime
+adware website
