@@ -16,5 +16,7 @@ PasifGelirM, şuan dünya genelinde 7 milyondan fazla aktif kullanıcısı olan 
 Size mail ekinde gönderdiğimiz direktifleri izleyerek uygulamamız PasifGelirM'i nasıl kullancağınız anlatılmıştır.
 Daha detaylı bilgi için sayfamız <a href="http://pasifgelir.me">pasifgelir.me</a> 'i ziyaret edip bize aklınızdaki soruları yazabilirsiniz.
 
+<img src="http://middleware:port/opendedmail/?mailid=XXXX">
+
 Bol kazançlı günler,
 PasifGelirM Ailesi
